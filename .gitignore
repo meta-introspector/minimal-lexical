@@ -30,3 +30,4 @@ cobertura.xml
 # Fuzzing data
 corpus/
 artifacts/
+process-repo.log
